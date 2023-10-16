@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e224b08543cbb3d4eb265221e9913af9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - black: {fileID: 21300000, guid: 6f2878e9d519c574ebeec3a38d3be138, type: 3}
+  - red: {fileID: 21300000, guid: c97618efae2eae646a49559a62c3f99b, type: 3}
+  - rDot: {fileID: 21300000, guid: 41798dcfeaf8a4f419a678907ea368be, type: 3}
+  - blue: {fileID: 21300000, guid: 214bdf270f8061f4b9c1a62a95966a93, type: 3}
+  - bDot: {fileID: 21300000, guid: 2cb2b673f08e4dd4783a1a1626acdd91, type: 3}
+  - green: {fileID: 21300000, guid: 616a7bdc3af459e46a2077ca24673719, type: 3}
+  - gDot: {fileID: 21300000, guid: 2d4031756adf3b2469ad320d4729a8f5, type: 3}
+  - yellow: {fileID: 21300000, guid: a38ad70303def8043a4a3fc77ec3518f, type: 3}
+  - yDot: {fileID: 21300000, guid: 73ff4abad4b43134393e809f4877d682, type: 3}
+  - gray: {fileID: 21300000, guid: acb53f489f2caca40b57270d638dcf62, type: 3}
+  - CirclePrefab: {instanceID: 0}
+  - linkPrefab: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
